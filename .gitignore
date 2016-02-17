@@ -2,7 +2,7 @@
 .DS_Store
 
 # Python package files
-funtool_common_processes.egg-info/*
+funtool_ipro_processes.egg-info/*
 *.egg
 
 
